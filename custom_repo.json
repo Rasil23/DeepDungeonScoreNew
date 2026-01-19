@@ -1,7 +1,7 @@
 [
   {
-    "Name": "DDSfinal",
-    "InternalName": "DDSFINAL",
+    "Name": "DeepDungeonScore",
+    "InternalName": "DeepDungeonScore",
     "AssemblyVersion": "1.0.0.0",
     "DalamudApiLevel": 14,
     "Description": "Tracks trap‑induced debuffs and deaths in Palace of the Dead and Heaven‑on‑High for a fun score competition.",
