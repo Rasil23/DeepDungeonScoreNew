@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Deep Dungeon Score",
+    "InternalName": "DeepDungeonScore",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 14,
+    "Description": "Tracks trap‑induced debuffs and deaths in Palace of the Dead and Heaven‑on‑High for a fun score competition.",
+    "RepoUrl": "",
+    "Punchline": "Find out who steps on traps and who dies the most in Deep Dungeons!",
+    "ApplicableVersion": "any",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Rasil23/DeepDungeonScore/main/DeepDungeonScore-1.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Rasil23/DeepDungeonScore/main/DeepDungeonScore-1.0.0.zip",
+    "LastUpdate": "1768789939"
+  }
+]
