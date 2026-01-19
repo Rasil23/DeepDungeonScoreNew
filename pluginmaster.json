@@ -1,0 +1,15 @@
+[
+  {
+    "Author": "Rasil23",
+    "Name": "DeepDungeonScore",
+    "InternalName": "DeepDungeonScore",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Deep Dungeon scoring / tracking plugin.",
+    "RepoUrl": "https://github.com/Rasil23/DeepDungeonScoreNew",
+    "Tags": ["DeepDungeon", "PotD", "HoH"],
+    "DalamudApiLevel": 10,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLink": "https://github.com/Rasil23/DeepDungeonScoreNew/releases/download/v1.0.0/DDSfinal.zip"
+  }
+]
